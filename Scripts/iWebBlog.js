@@ -53,8 +53,8 @@ return 0;return this.mItems.length;},itemAtIndex:function(index)
 {var result=this.itemCount();if(!this.mIsArchive&&(this.mMaximumSummaryItems>0)&&(this.mMaximumSummaryItems<result))
 {result=this.mMaximumSummaryItems;}
 return result;},dumpFeed:function()
-{print("dumping a feed with %s items",this.itemCount());for(var i=0;i<this.itemCount();++i)
-{printObject(this.itemAtIndex(i));}},itemAfter:function(urlString)
+//{print("dumping a feed with %s items",this.itemCount());for(var i=0;i<this.itemCount();++i)
+//{printObject(this.itemAtIndex(i));}},itemAfter:function(urlString)
 {var afterIndex=null;var url=new IWURL(urlString);for(var i=0;i<this.mItems.length;++i)
 {if(url.isEqual(this.mItems[i].absoluteURL))
 {afterIndex=i-1;break;}}
