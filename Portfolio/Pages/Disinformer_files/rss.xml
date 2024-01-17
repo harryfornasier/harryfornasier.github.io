@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Portfolio</title>
+    <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer.html</link>
+    <description>I made this as my dissertation in third of Uni as a way to express my opinion on data collection and privacy online. This data can be used to manipulate us in a way that’s hard to even notice and is dangerous. There are two links one for mac and one for windows. If you have problems with either send me an email. The zip comes with the game and the profile books which are needed to play each level. I recommend that you print them out for immersion but you could also put them on a phone or tablet. The game only works in fullscreen so you will need to use two devices.</description>
+    <item>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer.html#0</link>
+      <guid isPermaLink="false">08c04921-34f8-442b-b22a-2495813e280f</guid>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer_files/Media/Screenshot%202022-05-28%20at%2016.33.27/Screenshot%202022-05-28%20at%2016.33.27.jpg" length="10674" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer_files/Media/Screenshot%202022-05-28%20at%2016.33.27/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer_files/Media/Screenshot%202022-05-28%20at%2016.33.27/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer_files/Media/Screenshot%202022-05-28%20at%2016.33.27/mip.jpg</iweb:mip-thumbnail>
+    </item>
+    <item>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer.html#1</link>
+      <guid isPermaLink="false">32a2f7b6-47ff-4ee2-92b6-dfa57f64b241</guid>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer_files/Media/Disinformer/Disinformer.jpg" length="60435" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer_files/Media/Disinformer/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer_files/Media/Disinformer/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer_files/Media/Disinformer/mip.jpg</iweb:mip-thumbnail>
+    </item>
+    <item>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer.html#2</link>
+      <guid isPermaLink="false">469304fb-f6ce-44b9-9f28-4f26f7f934a2</guid>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer_files/Media/Screenshot%202022-05-28%20at%2016.33.56/Screenshot%202022-05-28%20at%2016.33.56.jpg" length="53882" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer_files/Media/Screenshot%202022-05-28%20at%2016.33.56/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer_files/Media/Screenshot%202022-05-28%20at%2016.33.56/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer_files/Media/Screenshot%202022-05-28%20at%2016.33.56/mip.jpg</iweb:mip-thumbnail>
+    </item>
+  </channel>
+</rss>

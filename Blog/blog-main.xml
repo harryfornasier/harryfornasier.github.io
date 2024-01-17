@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://www.harrisonserver.info/Harrison_Fornasier/Blog</link>
+    <description>Don&#x2019;t really know what i&#x2019;m gonna put on here. probably gonna be talking about things I watch like movies and playing games and also places i&#x2019;m going to. Oh and probably old computers too.</description>
+    <item>
+      <title>OS X Mavericks</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Blog/Entries/2022/10/8_OS_X_Mavericks.html</link>
+      <guid isPermaLink="false">637b32dd-8fc6-4cc8-b4bf-5040cc9a806f</guid>
+      <pubDate>Sat, 8 Oct 2022 16:37:59 +0100</pubDate>
+      <description>I recently downgraded my Mac pro 2013 to OS X Mavericks and it is so much faster it feels way more responsive.</description>
+      <iweb:comment enabled="0" count="0" link="http://www.harrisonserver.info/Harrison_Fornasier/Blog/Entries/2022/10/8_OS_X_Mavericks.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Graduation</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Blog/Entries/2022/7/20_Graduation.html</link>
+      <guid isPermaLink="false">7752d8d3-4574-469b-8c9f-0fda7b575f7d</guid>
+      <pubDate>Wed, 20 Jul 2022 16:04:31 +0100</pubDate>
+      <description>Graduated today from the university of York</description>
+      <iweb:image href="Media/object002.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://www.harrisonserver.info/Harrison_Fornasier/Blog/Entries/2022/7/20_Graduation.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d MMMM y</iweb:dateFormat>
+    <iweb:baseURL>http://www.harrisonserver.info/Harrison_Fornasier/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

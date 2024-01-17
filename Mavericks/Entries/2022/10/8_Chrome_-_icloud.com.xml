@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5B5DFB4-D94B-4356-B4EC-940DC04AB2AF">
+  <lastEdited clientType="local-build-20221010" date="2022-10-10 13:59:08 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Apple Photos&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Chrome - icloud.com</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>If you use Icloud photos like me then you&#x2019;ll be annoyed that Apple photos app was not made for Mavericks. The best alternative to this I could find is using Chrome-Legacy by blueboxd, an up to date Chrome browser for 10.7-10.10. I would recommend using this to make a desktop chrome app by going to the three dots on the top right &gt; More Tools &gt; Create Shortcut and check open as new window. You can now add this to your dock. Obviously you&#x2019;ll have to keep chrome open while this works, but it works quite nicely.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&lt;a href="https://www.icloud.com/photos/"&gt;https://www.icloud.com/photos/&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Chrome_-_icloud.com_files/shapeimage_2.png" left="0px" top="0px" width="371px" height="241px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5B5DFB4-D94B-4356-B4EC-940DC04AB2AF">
+  <lastEdited clientType="local-build-20221010" date="2022-10-10 13:59:08 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Visual Studio Code&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Visual Studio Code 2019 (1.35)</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Click the image to download from the visual studio website. This is the latest version I could find that will still run on Mavericks. However it will try to update itself to the latest version even if it&#x2019;s not compatible so change Update: Mode to none in preferences in settings.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&lt;a href="https://update.code.visualstudio.com/1.35.1/darwin/stable"&gt;https://update.code.visualstudio.com/1.35.1/darwin/stable&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Day_of_longboarding_files/shapeimage_2.png" left="0px" top="0px" width="263px" height="263px"/>
+</content>

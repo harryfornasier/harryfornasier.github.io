@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Photos</title>
+    <link>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick.html</link>
+    <description>Defrosting the fridge led to milo cooling off.</description>
+    <item>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick.html#0</link>
+      <guid isPermaLink="false">bf25540d-e39a-4211-987e-e7d09d86c2c0</guid>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0230/SDIM0230.jpg" length="342087" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0230/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0230/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0230/mip.jpg</iweb:mip-thumbnail>
+    </item>
+    <item>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick.html#1</link>
+      <guid isPermaLink="false">617b8b2d-ccf3-4d8c-bbfb-b19b99ec8cbb</guid>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0236/SDIM0236.jpg" length="328914" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0236/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0236/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0236/mip.jpg</iweb:mip-thumbnail>
+    </item>
+    <item>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick.html#2</link>
+      <guid isPermaLink="false">fd57984b-ec68-48ff-b01e-7154315e9fed</guid>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0232/SDIM0232.jpg" length="433326" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0232/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0232/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0232/mip.jpg</iweb:mip-thumbnail>
+    </item>
+    <item>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick.html#3</link>
+      <guid isPermaLink="false">72366e52-41de-445f-9316-bcad99248346</guid>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0235/SDIM0235.jpg" length="393728" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0235/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0235/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick_files/Media/SDIM0235/mip.jpg</iweb:mip-thumbnail>
+    </item>
+  </channel>
+</rss>

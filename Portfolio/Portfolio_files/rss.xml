@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Portfolio Work</title>
+    <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Portfolio.html</link>
+    <description>Portfolio Work</description>
+    <item>
+      <title>Disinformer</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Disinformer.html</link>
+      <guid isPermaLink="false">64cec364-1fe8-4fff-8191-ce1c898822f2</guid>
+    </item>
+    <item>
+      <title>Phoals</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Phoals.html</link>
+      <guid isPermaLink="false">2b8915ff-6103-4f7f-95f3-bacccbf195bc</guid>
+    </item>
+    <item>
+      <title>The haunting</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/The_haunting.html</link>
+      <guid isPermaLink="false">c71d0f21-c827-4d8a-bbf6-55d29b31175a</guid>
+    </item>
+  </channel>
+</rss>

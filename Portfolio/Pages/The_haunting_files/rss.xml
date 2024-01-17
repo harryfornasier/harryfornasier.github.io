@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Photos</title>
+    <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/The_haunting.html</link>
+    <description>A game I made in first year using the quest text adventure tool. It’s a simple point and click game. I did the pixel artwork myself using my Ipad. You can play it online here:
+
+https://play2.textadventures.co.uk/Play.aspx?id=oizodimi1uaxjhtpfluirw</description>
+    <item>
+      <title>In game 2</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/The_haunting_files/Media/In%20game%202/In%20game%202.gif</link>
+      <guid isPermaLink="false">c7828f46-9aec-4eed-a2ca-8f7dab16c889</guid>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/The_haunting_files/Media/In%20game%202/In%20game%202.gif" length="853534" type="image/gif"/>
+      <iphoto:thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/The_haunting_files/Media/In%20game%202/thumb.jpg</iphoto:thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;In game 2&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+      <iweb:movieParams>{&quot;moviePoster&quot;: 0, &quot;movieStartTime&quot;: 0, &quot;movieShowController&quot;: true, &quot;movieEndPoster&quot;: 1, &quot;movieAutoPlay&quot;: false, &quot;movieEndTime&quot;: 1, &quot;movieDuration&quot;: 1.7, &quot;movieLoop&quot;: &quot;SFDMovieNoLoop&quot;}</iweb:movieParams>
+    </item>
+    <item>
+      <title>Kitchen Light</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/The_haunting_files/Media/Kitchen%20Light/Kitchen%20Light.gif</link>
+      <guid isPermaLink="false">7372e82e-4627-4a5b-b713-77686a5f2f27</guid>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/The_haunting_files/Media/Kitchen%20Light/Kitchen%20Light.gif" length="171005" type="image/gif"/>
+      <iphoto:thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/The_haunting_files/Media/Kitchen%20Light/thumb.jpg</iphoto:thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Kitchen Light&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+      <iweb:movieParams>{&quot;moviePoster&quot;: 0, &quot;movieStartTime&quot;: 0, &quot;movieShowController&quot;: true, &quot;movieEndPoster&quot;: 1, &quot;movieAutoPlay&quot;: false, &quot;movieEndTime&quot;: 1, &quot;movieDuration&quot;: 1.44, &quot;movieLoop&quot;: &quot;SFDMovieNoLoop&quot;}</iweb:movieParams>
+    </item>
+    <item>
+      <title>Living Room</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/The_haunting.html#2</link>
+      <guid isPermaLink="false">8501c130-fde0-42b0-8b77-3d30c8958d74</guid>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/The_haunting_files/Media/Living%20Room/Living%20Room.jpg" length="20963" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/The_haunting_files/Media/Living%20Room/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/The_haunting_files/Media/Living%20Room/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/The_haunting_files/Media/Living%20Room/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Living Room&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

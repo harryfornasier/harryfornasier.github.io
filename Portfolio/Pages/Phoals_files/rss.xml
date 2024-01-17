@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Portfolio</title>
+    <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Phoals.html</link>
+    <description>An app I made in second year to solve a problem I have. I often like to take photos as a hobby, but sometimes I just don’t know what to take pictures of. If you have the same problem then this is an app for you! This app calls an api that gives you a location of a unique location near you. Your phoal (photo goal) is to walk to that area and take a picture of the random object that it says. I also put a camera app into it but that was just for extra marks. I’ve included a build of it you can download and install on your android phone. If it doesn’t work contact me, but I won’t really be fixing any bugs. It also needs to use gps and can’t just be used over wifi.</description>
+    <item>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Phoals_files/Media/Phoals/Phoals.mp4</link>
+      <guid isPermaLink="false">eb3797a7-8927-4b78-9d50-c91070f17770</guid>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Phoals_files/Media/Phoals/Phoals.mp4" length="25445110" type="video/mp4"/>
+      <iphoto:thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Phoals_files/Media/Phoals/thumb.jpg</iphoto:thumbnail>
+      <iweb:movieParams>{&quot;movieLoop&quot;: &quot;SFDMovieNoLoop&quot;, &quot;movieStartTime&quot;: 0, &quot;movieShowController&quot;: true, &quot;movieEndPoster&quot;: 1, &quot;moviePoster&quot;: 0, &quot;movieEndTime&quot;: 1, &quot;movieSoundVolume&quot;: 1, &quot;movieDuration&quot;: 40.802, &quot;movieAutoPlay&quot;: false}</iweb:movieParams>
+    </item>
+    <item>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Phoals.html#1</link>
+      <guid isPermaLink="false">894bba0d-db8c-4588-b4cd-644ee041926a</guid>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Phoals_files/Media/ic_launcher-playstore/ic_launcher-playstore.jpg" length="29436" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Phoals_files/Media/ic_launcher-playstore/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Phoals_files/Media/ic_launcher-playstore/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.harrisonserver.info/Harrison_Fornasier/Portfolio/Pages/Phoals_files/Media/ic_launcher-playstore/mip.jpg</iweb:mip-thumbnail>
+    </item>
+  </channel>
+</rss>

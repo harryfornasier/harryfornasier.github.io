@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5B5DFB4-D94B-4356-B4EC-940DC04AB2AF">
+  <lastEdited clientType="local-build-20221010" date="2022-10-10 13:59:08 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Keka&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Keka 1.1.30</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I usually used the Unarchiver for all my zipping tasks, however the version the App store would download would crash all the time. But Keka works perfectly for me and provides links to old versions all the way down to 10.4!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&lt;a href="https://legacy.keka.io/mavericks"&gt;https://legacy.keka.io/mavericks&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Keka_1.1.30_files/shapeimage_2.png" left="0px" top="0px" width="283px" height="280px"/>
+</content>

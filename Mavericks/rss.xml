@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Mavericks</title>
+    <link>http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Mavericks.html</link>
+    <description>This page is going to be dedicated to OS X Mavericks software and other information I find that is of use. If any links go down email me as i’ve made backups.&lt;br/&gt;&lt;br/&gt;I would really suggest taking a look at Jonathan Alland’s projects for older macs here:&lt;br/&gt;https://jonathanalland.com/old-osx-projects.html</description>
+    <generator>iWeb 3.0.3</generator>
+    <image>
+      <url>http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Mavericks_files/Mac-OS-X-Mavericks-Logo.jpg</url>
+      <title>Mavericks</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Mavericks.html</link>
+    </image>
+    <item>
+      <title>Photoshop CS3 Hi-Res Icons</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/10_Photoshop_CS3_Hi-Res_Icons.html</link>
+      <guid isPermaLink="false">2590502f-b906-45ad-ada6-8c20f7b0bc3b</guid>
+      <pubDate>Mon, 10 Oct 2022 12:10:28 +0100</pubDate>
+      <description>&lt;a href=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/10_Photoshop_CS3_Hi-Res_Icons_files/PS_AppIcon%20%28Extended%20Version%29.png&quot;&gt;&lt;img src=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Media/object001_1.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:158px;&quot;/&gt;&lt;/a&gt;If you have an older copy of photoshop it should still work on Mavericks. I got Photoshop CC 2014 to install correctly. I’m not sure if this is the newest version that will work but for my needs it works perfectly. And these Icons make for a great replacement for the newer looking ones.</description>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/10_Photoshop_CS3_Hi-Res_Icons_files/PS_AppIcon%20%28Extended%20Version%29.png" length="171803" type="image/png"/>
+    </item>
+    <item>
+      <title>Apple Mail</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Apple_Mail.html</link>
+      <guid isPermaLink="false">6df0a776-813f-48b8-a95d-2e2e9527f7e4</guid>
+      <pubDate>Sat, 8 Oct 2022 17:34:03 +0100</pubDate>
+      <description>&lt;a href=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Apple_Mail_files/droppedImage.jpg&quot;&gt;&lt;img src=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Media/object081_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:176px;&quot;/&gt;&lt;/a&gt;Apple mail on mavericks should work out of the box with Icloud email, at least it did for mine. Gmail was a little bit trickier. You have to enable two factor authentication on your google account for it to work. After you’ve done this you can make an app specific password, which you’ll use to login to your email on Apple Mail, if done correctly it should load up everything without any issue.</description>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Apple_Mail_files/droppedImage.jpg" length="42063" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Handbrake 1.1.2</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Handbrake_1.1.2.html</link>
+      <guid isPermaLink="false">978af59d-d700-4eef-9a9a-0aa69b21f21b</guid>
+      <pubDate>Sat, 8 Oct 2022 17:30:22 +0100</pubDate>
+      <description>&lt;a href=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Handbrake_1.1.2_files/droppedImage.png&quot;&gt;&lt;img src=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Media/object078_1.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:178px;&quot;/&gt;&lt;/a&gt;Handbrake, a must have tool if you work with video a lot. Can compress videos smaller and into different formats.</description>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Handbrake_1.1.2_files/droppedImage.png" length="66549" type="image/png"/>
+    </item>
+    <item>
+      <title>Keka 1.1.30</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Keka_1.1.30.html</link>
+      <guid isPermaLink="false">8e76dd6a-2eff-4537-9d18-08b59ece4b15</guid>
+      <pubDate>Sat, 8 Oct 2022 17:27:22 +0100</pubDate>
+      <description>&lt;a href=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Keka_1.1.30_files/Keka-Square-512x512.png&quot;&gt;&lt;img src=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Media/object075_1.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:174px;&quot;/&gt;&lt;/a&gt;I usually used the Unarchiver for all my zipping tasks, however the version the App store would download would crash all the time. But Keka works perfectly for me and provides links to old versions all the way down to 10.4!</description>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Keka_1.1.30_files/Keka-Square-512x512.png" length="264059" type="image/png"/>
+    </item>
+    <item>
+      <title>Chrome - icloud.com</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Chrome_-_icloud.com.html</link>
+      <guid isPermaLink="false">8f10549e-5da2-417b-972e-cd982cdb7d47</guid>
+      <pubDate>Sat, 8 Oct 2022 17:21:38 +0100</pubDate>
+      <description>&lt;a href=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Chrome_-_icloud.com_files/droppedImage.jpg&quot;&gt;&lt;img src=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Media/object072_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:203px; height:132px;&quot;/&gt;&lt;/a&gt;If you use Icloud photos like me then you’ll be annoyed that Apple photos app was not made for Mavericks. The best alternative to this I could find is using Chrome-Legacy by blueboxd, an up to date Chrome browser for 10.7-10.10. I would recommend using this to make a desktop chrome app by going to the three dots on the top right &gt; More Tools &gt; Create Shortcut and check open as new window. You can now add this to your dock. Obviously you’ll have to keep chrome open while this works, but it works quite nicely.</description>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Chrome_-_icloud.com_files/droppedImage.jpg" length="10524" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>BetterSnapTool</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_BetterSnapTool.html</link>
+      <guid isPermaLink="false">c1dddb2a-0e9d-47cf-9f80-065c84413b85</guid>
+      <pubDate>Sat, 8 Oct 2022 17:16:34 +0100</pubDate>
+      <description>&lt;a href=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_BetterSnapTool_files/droppedImage.png&quot;&gt;&lt;img src=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Media/object067_1.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:138px;&quot;/&gt;&lt;/a&gt;BetterSnapTool I was able to install through the Mac App store, however for older operating systems you could use BetterTouchTool which is still hosted on the website &lt;a href=&quot;https://folivora.ai/downloads&quot;&gt;https://folivora.ai/downloads&lt;/a&gt;</description>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_BetterSnapTool_files/droppedImage.png" length="147251" type="image/png"/>
+    </item>
+    <item>
+      <title>Istat Menus</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Istat_Menus.html</link>
+      <guid isPermaLink="false">b8d08996-1134-4e1f-8f01-e9a5aa486463</guid>
+      <pubDate>Sat, 8 Oct 2022 17:05:12 +0100</pubDate>
+      <description>&lt;a href=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Istat_Menus_files/6225913aab025e5a2ee705c490bf41b5.jpg&quot;&gt;&lt;img src=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Media/object057_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:132px;&quot;/&gt;&lt;/a&gt;Istat still provides downloads to their old versions. It is a paid software but it is very good and I use it everyday. The last version that will work on Mavericks is 5.32.</description>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Istat_Menus_files/6225913aab025e5a2ee705c490bf41b5.jpg" length="46126" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Spotify (1.0.89.313.g34a58dea)</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Entry_1.html</link>
+      <guid isPermaLink="false">2fe4e293-b3bd-482e-92c9-ce5760ef577b</guid>
+      <pubDate>Sat, 8 Oct 2022 16:58:58 +0100</pubDate>
+      <description>&lt;a href=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Entry_1_files/droppedImage.png&quot;&gt;&lt;img src=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Media/object048_1.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:176px;&quot;/&gt;&lt;/a&gt;Luckily Spotify still provides the download to a spotify version that works on their website! Really hoping this one keeps working for a few more years. This link provides versions for 10.9 and up.</description>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Entry_1_files/droppedImage.png" length="31612" type="image/png"/>
+    </item>
+    <item>
+      <title>Visual Studio Code 2019 (1.35)</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Day_of_longboarding.html</link>
+      <guid isPermaLink="false">df1d7f28-d1fd-450f-a3dd-3fba4e0455b6</guid>
+      <pubDate>Sat, 8 Oct 2022 16:49:23 +0100</pubDate>
+      <description>&lt;a href=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Day_of_longboarding_files/droppedImage.png&quot;&gt;&lt;img src=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Media/object040_1.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:176px;&quot;/&gt;&lt;/a&gt;Click the image to download from the visual studio website. This is the latest version I could find that will still run on Mavericks. However it will try to update itself to the latest version even if it’s not compatible so change Update: Mode to none in preferences in settings.</description>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Mavericks/Entries/2022/10/8_Day_of_longboarding_files/droppedImage.png" length="78416" type="image/png"/>
+    </item>
+  </channel>
+</rss>

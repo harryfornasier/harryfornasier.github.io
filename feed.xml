@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:C1597F34-9A7A-489F-9A95-5808B98DE4C9</id>
+ <title>Page list Atom feed</title>
+ <updated>2022-10-10T15:21:42+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:781406E8-EB15-4811-9B01-CC8D99973BDD</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">781406E8-EB15-4811-9B01-CC8D99973BDD</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2022-10-10T15:21:42.001+01:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F6CB608B-84D1-4A76-9FA1-E5B76CE877E4</id>
+  <title>Blog</title>
+  <title xmlns="urn:iweb:">Blog</title>
+  <in-navbar xmlns="urn:iweb:">F6CB608B-84D1-4A76-9FA1-E5B76CE877E4</in-navbar>
+  <link rel="alternate" href="Blog/Blog.html"/>
+  <updated>2007-01-23T17:29:52+00:00</updated>
+  <content>Blog</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A4E70A33-18E6-4A0F-9E9B-6D805F4D6885</id>
+  <title>My Albums</title>
+  <title xmlns="urn:iweb:">My Albums</title>
+  <in-navbar xmlns="urn:iweb:">A4E70A33-18E6-4A0F-9E9B-6D805F4D6885</in-navbar>
+  <link rel="alternate" href="My_Albums/My_Albums.html"/>
+  <updated>2022-10-10T15:21:42.002+01:00</updated>
+  <content>My Albums</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:CF924DD7-18C2-4A9C-8A7C-6B9109CAA855</id>
+  <title>Mavericks</title>
+  <title xmlns="urn:iweb:">Mavericks</title>
+  <in-navbar xmlns="urn:iweb:">CF924DD7-18C2-4A9C-8A7C-6B9109CAA855</in-navbar>
+  <link rel="alternate" href="Mavericks/Mavericks.html"/>
+  <updated>2007-01-23T17:29:52+00:00</updated>
+  <content>Mavericks</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6576A0E1-485F-4DED-A279-31C5D357B6D6</id>
+  <title>Portfolio</title>
+  <title xmlns="urn:iweb:">Portfolio</title>
+  <in-navbar xmlns="urn:iweb:">6576A0E1-485F-4DED-A279-31C5D357B6D6</in-navbar>
+  <link rel="alternate" href="Portfolio/Portfolio.html"/>
+  <updated>2022-10-10T15:21:42.003+01:00</updated>
+  <content>Portfolio</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3498601E-F960-4A09-B194-A4A05DEAC3D0</id>
+  <title>About Me</title>
+  <title xmlns="urn:iweb:">About Me</title>
+  <in-navbar xmlns="urn:iweb:">3498601E-F960-4A09-B194-A4A05DEAC3D0</in-navbar>
+  <link rel="alternate" href="About_Me.html"/>
+  <updated>2022-10-10T15:21:42.004+01:00</updated>
+  <content>About Me</content>
+ </entry>
+</feed>

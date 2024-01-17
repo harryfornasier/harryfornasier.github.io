@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5B5DFB4-D94B-4356-B4EC-940DC04AB2AF">
+  <lastEdited clientType="local-build-20221010" date="2022-10-10 13:59:08 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Handbrake&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Handbrake 1.1.2</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Handbrake, a must have tool if you work with video a lot. Can compress videos smaller and into different formats.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&lt;a href="https://handbrake.fr/rotation.php?file=HandBrake-1.1.2.dmg&amp;old=true"&gt;https://handbrake.fr/rotation.php?file=HandBrake-1.1.2.dmg&amp;old=true&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Handbrake_1.1.2_files/shapeimage_2.png" left="0px" top="0px" width="251px" height="254px"/>
+</content>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Albums</title>
+    <link>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/My_Albums.html</link>
+    <description>My Albums</description>
+    <item>
+      <title>Photos</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Photos.html</link>
+      <guid isPermaLink="false">a976c5a0-3fdb-43dd-bd0d-c72c28500bbb</guid>
+    </item>
+    <item>
+      <title>Georgian Bay</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Georgian_Bay.html</link>
+      <guid isPermaLink="false">4db260d8-2b41-44de-9012-3be803ed326d</guid>
+    </item>
+    <item>
+      <title>Lick</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/My_Albums/Pages/Lick.html</link>
+      <guid isPermaLink="false">7fc7ecd4-c82e-4c77-aaae-0db7c677c9b2</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Blog</title>
+    <link>http://www.harrisonserver.info/Harrison_Fornasier/Blog/Blog.html</link>
+    <description>Don’t really know what i’m gonna put on here. probably gonna be talking about things I watch like movies and playing games and also places i’m going to. Oh and probably old computers too.</description>
+    <generator>iWeb 3.0.3</generator>
+    <image>
+      <url>http://www.harrisonserver.info/Harrison_Fornasier/Blog/Blog_files/IMG_0981.jpg</url>
+      <title>My Blog</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Blog/Blog.html</link>
+    </image>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>Don’t really know what i’m gonna put on here. probably gonna be talking about things I watch like movies and playing games and also places i’m going to. Oh and probably old computers too.</itunes:subtitle>
+    <itunes:summary>Don’t really know what i’m gonna put on here. probably gonna be talking about things I watch like movies and playing games and also places i’m going to. Oh and probably old computers too.</itunes:summary>
+    <itunes:image href="http://www.harrisonserver.info/Harrison_Fornasier/Blog/Blog_files/IMG_0981.jpg"/>
+    <language>en</language>
+    <item>
+      <title>OS X Mavericks</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Blog/Entries/2022/10/8_OS_X_Mavericks.html</link>
+      <guid isPermaLink="false">637b32dd-8fc6-4cc8-b4bf-5040cc9a806f</guid>
+      <pubDate>Sat, 8 Oct 2022 16:37:59 +0100</pubDate>
+      <description>I recently downgraded my Mac pro 2013 to OS X Mavericks and it is so much faster it feels way more responsive.</description>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Media/Mavericks-HD%201080p.mov" length="268794162" type="video/quicktime"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:04:20</itunes:duration>
+      <itunes:subtitle>I recently downgraded my Mac pro 2013 to OS X Mavericks and it is so much faster it feels way more responsive.</itunes:subtitle>
+      <itunes:summary>I recently downgraded my Mac pro 2013 to OS X Mavericks and it is so much faster it feels way more responsive.</itunes:summary>
+    </item>
+    <item>
+      <title>Graduation</title>
+      <link>http://www.harrisonserver.info/Harrison_Fornasier/Blog/Entries/2022/7/20_Graduation.html</link>
+      <guid isPermaLink="false">7752d8d3-4574-469b-8c9f-0fda7b575f7d</guid>
+      <pubDate>Wed, 20 Jul 2022 16:04:31 +0100</pubDate>
+      <description>&lt;a href=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Blog/Entries/2022/7/20_Graduation_files/UNADJUSTEDNONRAW_thumb_45ab.jpg&quot;&gt;&lt;img src=&quot;http://www.harrisonserver.info/Harrison_Fornasier/Blog/Media/object002_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:132px;&quot;/&gt;&lt;/a&gt;Graduated today from the university of York</description>
+      <enclosure url="http://www.harrisonserver.info/Harrison_Fornasier/Blog/Entries/2022/7/20_Graduation_files/UNADJUSTEDNONRAW_thumb_45ab.jpg" length="164035" type="image/jpeg"/>
+      <itunes:block>yes</itunes:block>
+    </item>
+  </channel>
+</rss>

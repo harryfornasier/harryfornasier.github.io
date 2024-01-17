@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5B5DFB4-D94B-4356-B4EC-940DC04AB2AF">
+  <lastEdited clientType="local-build-20221010" date="2022-10-10 13:59:08 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Spotify&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Spotify (1.0.89.313.g34a58dea)</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Luckily Spotify still provides the download to a spotify version that works on their website! Really hoping this one keeps working for a few more years. This link provides versions for 10.9 and up.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&lt;a href="https://www.spotify.com/uk/download/other/"&gt;https://www.spotify.com/uk/download/other/&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Entry_1_files/shapeimage_2.png" left="0px" top="0px" width="264px" height="264px"/>
+</content>
