@@ -19,6 +19,7 @@
       <pubDate>Wed, 20 Jul 2022 16:04:31 +0100</pubDate>
       <description>Graduated today from the university of York</description>
       <iweb:image href="Media/object002.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://www.harrisonserver.info/Harrison_Fornasier/Blog/Entries/2022/7/20_Graduation.html#comment_layer"></iweb:comment>
     </item>
     <iweb:dateFormat>EEEE, d MMMM y</iweb:dateFormat>
     <iweb:baseURL>http://www.harrisonserver.info/Harrison_Fornasier/Blog</iweb:baseURL>
